@@ -1,6 +1,6 @@
-# PYTHON OOP PRACTICE
-# THIS PROGRAM RUNS, BUT IT IS UNFINISHED.
-# INSPIRED BY RICK RIORDAN'S PERCY JACKSON BOOK SERIES
+# python oop practice
+# unfinished program
+# inspired by rick riordan's percy jackson series
 
 
 OlympianGods = {"Zeus":1, "Hera":2, "Poseidon":3, "Demeter":4, "Ares":5, "Athena":6,
